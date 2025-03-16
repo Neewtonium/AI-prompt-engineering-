@@ -62,4 +62,3 @@ Feel free to suggest improvements, new formulas, or examples via pull requests!
 
 ---  
 
-Let me know if you want more sections like **FAQs, Use Cases, or Examples!** 🚀
