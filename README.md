@@ -11,7 +11,7 @@ This guide provides structured formulas to craft effective AI prompts for better
 
 (Perfecting Requests for Intelligent System Mastery)
 
-1. * P *recision – Clearly define the task and expected outcome.
+1. *P*recision – Clearly define the task and expected outcome.
 
 
 2. Relevance – Ensure the request aligns with the AI’s capabilities.
