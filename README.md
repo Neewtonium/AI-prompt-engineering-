@@ -7,7 +7,7 @@ This guide provides structured formulas to craft effective AI prompts for better
 
 ## 📌 Prompt Formulas
 
-* 🔷 P.R.I.S.M. Formula *
+_🔷 P.R.I.S.M. Formula_
 
 (Perfecting Requests for Intelligent System Mastery)
 
