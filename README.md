@@ -5,7 +5,7 @@
 Welcome to the AI Prompt Engineering Frameworks repository! 🚀
 This guide provides structured formulas to craft effective AI prompts for better responses.
 
-📌 Prompt Formulas
+## 📌 Prompt Formulas
 
 🔷 P.R.I.S.M. Formula
 
